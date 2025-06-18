@@ -7,7 +7,7 @@ Group Members - Precious, Sandeep, Hoangg.
 
 Class - Data Visualization.
 
-The dataset contains 1,352 entries with the following key features:
+The dataset contains 500 entries with the following key features:
 
 Demographics: Age, Gender
 
